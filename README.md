@@ -1,5 +1,6 @@
+<h1>
 ¡Bienvenido! 👋
-
+</h1>
 Este desafio consistio en contruir una tarjeta o componente que se asemejara a lo mas posible al diseño.
 
 ![alt text](https://github.com/Richard5200/Componente-de-tarjeta-frontendmentor/blob/main/design/desktop-design.jpg)
